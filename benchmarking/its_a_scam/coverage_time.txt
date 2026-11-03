@@ -1,0 +1,230 @@
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_1"
+	User time (seconds): 208.85
+	System time (seconds): 7.76
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:36.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276672
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 1433859
+	Voluntary context switches: 8
+	Involuntary context switches: 1429
+	Swaps: 0
+	File system inputs: 648
+	File system outputs: 623512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_2"
+	User time (seconds): 209.64
+	System time (seconds): 7.87
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:37.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276480
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433857
+	Voluntary context switches: 5
+	Involuntary context switches: 1339
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_3"
+	User time (seconds): 210.56
+	System time (seconds): 7.73
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:38.32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276480
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433859
+	Voluntary context switches: 4
+	Involuntary context switches: 1376
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_4"
+	User time (seconds): 210.60
+	System time (seconds): 7.98
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:38.63
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276480
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433861
+	Voluntary context switches: 5
+	Involuntary context switches: 1411
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_5"
+	User time (seconds): 211.92
+	System time (seconds): 7.96
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:39.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433858
+	Voluntary context switches: 5
+	Involuntary context switches: 1503
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_6"
+	User time (seconds): 210.38
+	System time (seconds): 7.87
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:38.30
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276672
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433858
+	Voluntary context switches: 5
+	Involuntary context switches: 1541
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_7"
+	User time (seconds): 209.80
+	System time (seconds): 7.99
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:37.83
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276480
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433856
+	Voluntary context switches: 4
+	Involuntary context switches: 1526
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_8"
+	User time (seconds): 211.06
+	System time (seconds): 7.76
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:38.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276672
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433857
+	Voluntary context switches: 5
+	Involuntary context switches: 1578
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_9"
+	User time (seconds): 211.48
+	System time (seconds): 7.84
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:39.35
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276672
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433857
+	Voluntary context switches: 4
+	Involuntary context switches: 1495
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+	Command being timed: "taskset -c 6 /home/rish/code/genomics/scam_build/bin/pseudobulk_fragment_coverage -a ../../data/pbmc_granulocyte_sorted_3k_bc_filtered.bam -b ../../data/cluster_id.txt -r ../../data/tss_pm1k.bed -o pbmc_granulocyte_sorted_3k_10"
+	User time (seconds): 211.87
+	System time (seconds): 7.99
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:39.91
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3276668
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1433857
+	Voluntary context switches: 5
+	Involuntary context switches: 1587
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 623504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
